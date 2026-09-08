@@ -143,9 +143,7 @@ Vrinda-Store-Excel-Analysis/
 ├── dashboard/
 │   └── vrinda_store_dashboard.png
 ├── data/
-│   └── source_dataset.xlsx
-└── documentation/
-    └── Dashboard_Analysis_Benchmark_Report.pdf
+    └── source_dataset.xlsx
 ```
 
 If the original dataset is redistributed publicly, verify its licensing/usage rights before committing it to GitHub.
